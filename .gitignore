@@ -1,5 +1,6 @@
-#yt_concate download folder
+#yt_concate folder
 downloads/
+outputs/
 
 # Editors
 .vscode/
